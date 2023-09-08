@@ -1,7 +1,5 @@
 <picture>
   <img src="/github-metrics.svg" alt="Metrics" style="float: left">
-</picture>
-<picture>
   <img src="/github-metrics-extra.svg" alt="Extra Metrics" style="float: right">
 </picture>
 
