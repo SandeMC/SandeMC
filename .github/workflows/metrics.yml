@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: SandeMC/metrics@latest
+      - uses: SandeMC/metrics
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
