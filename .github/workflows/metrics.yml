@@ -12,7 +12,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          config_timezone: Europe/Kyiv
           config_display: columns
           
           plugin_languages: yes
