@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           plugin_languages: yes
-          plugin_languages_ignored: c++, c#, cmake, objective-c, makefile, java
+          plugin_languages_ignored: c++, c#, cmake, objective-c, makefile, java, ruby, starlark
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_traffic: yes
