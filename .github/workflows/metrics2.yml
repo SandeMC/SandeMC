@@ -13,6 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.extra.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_anilist: yes
           plugin_anilist_user: GillianMC
