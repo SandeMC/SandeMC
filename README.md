@@ -1,6 +1,4 @@
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+![Metrics](github-metrics.svg)
 
 <!--
 **SandeMC/SandeMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
