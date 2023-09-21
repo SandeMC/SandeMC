@@ -16,7 +16,8 @@ jobs:
           config_output: png
           
           plugin_languages: yes
-          plugin_languages_ignored: c++, c#, cmake, objective-c, makefile, java, ruby, starlark
+          plugin_languages_skipped: metrics, SteamAchievementManager, GameTrackerHLTBAndroid
+          plugin_languages_ignored: c++, cmake, makefile, java, ruby, starlark
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_traffic: yes
