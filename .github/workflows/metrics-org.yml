@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: gillian-guide
           config_display: columns
-          config_output: svg
+          config_output: png
           
           plugin_languages: yes
           plugin_languages_skipped: GTAIV.EFLC.FusionFix-GFWL
