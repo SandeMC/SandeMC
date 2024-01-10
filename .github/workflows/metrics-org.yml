@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: gillian-guide-metrics.svg
+          filename: gillian-guide-metrics.png
           token: ${{ secrets.METRICS_TOKEN }}
           user: gillian-guide
           config_display: columns
