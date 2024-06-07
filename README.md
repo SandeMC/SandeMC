@@ -1,3 +1,7 @@
+```math
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 1000%; object-fit: fill; width: 1000%; opacity: 0.2; background-size:cover; background: url('https://github.com/SandeMC/SandeMC/assets/70141395/32d51a83-60a2-4b10-8070-13146ff70d6d');]{x0000}$}
+```
+
 <picture>
   <img src="/github-metrics.png" alt="Metrics">
 </picture>
