@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: SandeMC/metrics@latest
         with:
           filename: gillian-guide-metrics.png
           token: ${{ secrets.METRICS_TOKEN }}
